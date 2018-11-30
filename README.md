@@ -8,11 +8,11 @@
 
 Technologies:
 
-NodeJS
-Swift
-Heroku
-MySQL
-AWS S3
+<li>NodeJS</li>
+<li>Swift</li>
+<li>Heroku</li>
+<li>MySQL</li>
+<li>AWS S3</li>
 
 Technical Description
 
