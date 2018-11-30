@@ -6,7 +6,7 @@
 <li> Preston Segura - Frontend Developer </li>
 <li> Junjui Lei - Frontend Developer </li>
 
-Technologies:
+<h1> Technologies: </h1>
 
 <li>NodeJS</li>
 <li>Swift</li>
@@ -14,7 +14,7 @@ Technologies:
 <li>MySQL</li>
 <li>AWS S3</li>
 
-Technical Description
+<h1>Technical Description</h1>
 
 The frontend of this iOS application is written in Swift. The backend is written in JavaScript run time Node. A RESTful backend web service, using MySQL database, hosted on Heroku, was developed to make network requests using Swift.
 
